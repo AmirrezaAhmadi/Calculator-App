@@ -53,7 +53,7 @@ To run this project, all you need is a browser that supports HTML, CSS, and Java
 
 You can reach me through the following:
 
-* Email: AmirrezaAhmadi.GH@example.com
+* Email: AmirrezaAhmadi.GH@Gmail.com
 * Telegram: https://t.me/AmirrezaDevelop
 * Instagram: https://www.instagram.com/codewithamirreza
 * Project Link: https://github.com/AmirrezaAhmadi/Calculator-App
