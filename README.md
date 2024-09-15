@@ -7,6 +7,7 @@ This project is a simple calculator built with **JavaScript**, **HTML**, and **C
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
+- [Contact](#contact)
 
 ## ScreenShot
 
@@ -45,3 +46,16 @@ To run this project, all you need is a browser that supports HTML, CSS, and Java
 1. Clone the project from GitHub or download the files:
    ```bash
    git clone https://github.com/AmirrezaAhmadi/Calculator-App.git
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
+
+## Contact
+
+You can reach me through the following:
+
+* Email: AmirrezaAhmadi.GH@example.com
+* Telegram: https://t.me/AmirrezaDevelop
+* Instagram: https://www.instagram.com/codewithamirreza
+* Project Link: https://github.com/AmirrezaAhmadi/Calculator-App
+
+<p align="right">(<a href="#table-of-contents">back to top</a>)</p>
